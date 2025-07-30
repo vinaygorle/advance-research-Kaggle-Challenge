@@ -1,4 +1,3 @@
-Spaceship Titanic
 <img width="1658" height="360" alt="image" src="https://github.com/user-attachments/assets/7b6555e4-bbff-4189-805b-f7bf60348f5e" />
 
 The Spaceship Titanic challenge on Kaggle tasks participants with predicting whether a passenger was transported to another dimension. The dataset includes train.csv containing 8693 records with 14 features including the target variable, test.csv with 4277 records and 13 features, and sample_submission.csv for formatting the output (Kaggle, 2025). 
