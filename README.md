@@ -6,4 +6,4 @@ Applied exploratory data analysis (EDA), feature engineering, and model training
 Used GridSearchCV for hyperparameter tuning and evaluated with accuracy, precision, recall, and F1 score.
 The primary goal is to build a classification model that accurately predicts the Transported column, a boolean variable indicating if a passenger experienced dimensional transport.
 Tools used: Python, Pandas, Scikit-learn, Google Colab, GitHub, Kaggle.
-<img width="3006" height="384" alt="image" src="https://github.com/user-attachments/assets/89d875b5-8494-4aa2-ae17-71e925b06c4e" />
+
